@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myztech
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python (pandas and plotly)
-- 💞️ I’m looking to collaborate on healthcare-related data analysis projects 
+- 👀 I’m interested in Web Development & Data Analysis
+- 🌱 I’m currently learning js & python
+- 💞️ I’m looking to find inspiration for new projects to enhance my skills 
 - 📫 How to reach me on twitter @myztech_
 
 <!---
